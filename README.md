@@ -35,6 +35,8 @@ Postgres 커뮤니티는 DBMS로 작업하는 방법을 설명하는 공식문�
 
 ### 주요 코드 안내
 
+<br><br>
+
 > drf serializer 를 통한 json 객체 직렬화
 
 ```python
