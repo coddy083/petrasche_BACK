@@ -13,6 +13,7 @@
 - Python
 - Django
 - Django RestFramework
+- Django Channels
 - FastApi
 - Tensorflow keras
 
@@ -251,3 +252,17 @@ class TokenObtainPairSerializer(TokenObtainPairSerializer):
 
         return token
 ```
+
+<br><br>
+
+> 기타 기술 내용
+- 엘라스틱 서치
+- PostgreSQL 쿼리 최적화
+- WebSocket 서버를 이용한 채팅 기능 구현
+- Tensorflow keras AI 이미지 분류
+
+<br><br>
+
+> 배포 및 아키텍쳐
+
+
