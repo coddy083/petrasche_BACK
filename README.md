@@ -265,4 +265,10 @@ class TokenObtainPairSerializer(TokenObtainPairSerializer):
 
 > 배포 및 아키텍쳐
 
+- Aws EC2
+- Docker
+- Aws authentication
+- Git action CD/CI
+- Aws RDS PostGreSQL
+
 
